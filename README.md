@@ -1,16 +1,30 @@
-## Hi there 👋
+# Wahyu Enggar Jati
 
-<!--
-**egrjati/egrjati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack Developer** — Next.js & Laravel  
+I build web applications with clean UI, well-structured backend, and maintainable code.
 
-Here are some ideas to get you started:
+## About
+- 🔭 Focus: Fullstack web development (Next.js + Laravel)
+- 🌱 Currently improving: API integration, application architecture, and performance
+- 📫 Email: **wahyuuenggarj@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Frontend:** Next.js, React, JavaScript/TypeScript
+- **Backend:** Laravel (PHP), REST API
+- **Database:** MySQL / PostgreSQL
+- **Tools:** Git & GitHub
+
+## Featured Projects
+> Pin your best repositories on your profile and add them here.
+
+- **Project 1** — short value statement (what it solves / key feature)  
+  Repo: https://github.com/egrjati/TODO
+
+- **Project 2** — short value statement  
+  Repo: https://github.com/egrjati/TODO
+
+- **Project 3** — short value statement  
+  Repo: https://github.com/egrjati/TODO
+
+## Contact
+- Email: **wahyuuenggarj@gmail.com**
