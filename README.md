@@ -1,30 +1,31 @@
-# Wahyu Enggar Jati
+<h1 align="center">✨ Wahyu Enggar Jati ✨</h1>
+<h3 align="center">Full Stack Developer | Informatics Graduate 🎓</h3>
 
-**Fullstack Developer** — Next.js & Laravel  
-I build web applications with clean UI, well-structured backend, and maintainable code.
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=435&lines=LARAVEL;NEXT.JS;JAVASCRIPT;TAILWINDCSS;SQL;CSS;HTML)
+  
+</div>
 
-## About
-- 🔭 Focus: Fullstack web development (Next.js + Laravel)
-- 🌱 Currently improving: API integration, application architecture, and performance
-- 📫 Email: **wahyuuenggarj@gmail.com**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wahyuenggarjati&label=Profile%20Views&color=6c5ce7&style=flat" alt="Profile views" />
+  <a href="https://github.com/wahyuenggarjati?tab=followers">
+    <img src="https://img.shields.io/github/followers/wahyuenggarjati?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+</p>
 
-## Tech Stack
-- **Frontend:** Next.js, React, JavaScript/TypeScript
-- **Backend:** Laravel (PHP), REST API
-- **Database:** MySQL / PostgreSQL
-- **Tools:** Git & GitHub
+---
 
-## Featured Projects
-> Pin your best repositories on your profile and add them here.
-
-- **Project 1** — short value statement (what it solves / key feature)  
-  Repo: https://github.com/egrjati/TODO
-
-- **Project 2** — short value statement  
-  Repo: https://github.com/egrjati/TODO
-
-- **Project 3** — short value statement  
-  Repo: https://github.com/egrjati/TODO
-
-## Contact
-- Email: **wahyuuenggarj@gmail.com**
+### 🎓 **About Me**
+```yaml
+name: Wahyu Enggar Jati
+location: Indonesia
+education:
+  university: "Universitas 17 Agustus 1945 Surabaya"
+  degree: "S.Kom - Teknik Informatika"
+  graduation: "30 Agustus 2025"
+interests:
+  - Web Development
+  - Full Stack Development
+  - UI/UX Design
+current_focus: "Building amazing web applications with modern tech stack"
