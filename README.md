@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=4000&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Crafting+modern+web+experiences;Next.js+%E2%80%A2+Laravel+%E2%80%A2+Tailwind+CSS;Minimalist+%E2%80%A2+Scalable+%E2%80%A2+Clean" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=23&duration=6200&pause=800&color=FFF5E6&color=F0E6D2&center=true&vCenter=true&width=700&lines=%E2%80%9Ci+constantly+see+people+rise+in+life;who+are+not+the+smartest;sometimes+not+even+the+most+diligent;but+they+are+learning+machines%E2%80%9D;--+Charlie+Munger&glow=1,1,3,2C2C2C&italic=true" alt="Typing SVG" />
 </a>
 
 <br/>
