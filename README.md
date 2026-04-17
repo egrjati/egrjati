@@ -28,16 +28,6 @@
 </div>
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahyuenggarjati&show_icons=true&hide_border=true&bg_color=transparent&title_color=808080&icon_color=808080&text_color=808080" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuenggarjati&layout=compact&hide_border=true&bg_color=transparent&title_color=808080&text_color=808080" width="48%" alt="Top Languages" />
-</p>
-
----
-
 ### Contact
 
 <p align="center">
