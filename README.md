@@ -13,7 +13,7 @@
 
 ### About
 
-- **Location:** Indonesia
+- **Location:** Surabaya
 - **Education:** S.Kom — Teknik Informatika, Universitas 17 Agustus 1945 Surabaya (2025)
 - **Focus:** Full Stack Development & UI/UX Design
 
