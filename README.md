@@ -1,7 +1,7 @@
 <div align="center">
 
 # Wahyu Enggar Jati
-**Full Stack Developer · Informatics Graduate**
+**Frontend Developer · Informatics Graduate**
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=22&duration=6200&pause=800&color=808080&center=true&vCenter=true&width=700&lines=%E2%80%9Ci+constantly+see+people+rise+in+life;who+are+not+the+smartest%2C+sometimes+not+even+the+most+diligent%2C;but+they+are+learning+machines%E2%80%9D;%E2%80%94+Charlie+Munger&italic=true" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 
 - **Location:** Surabaya
 - **Education:** S.Kom — Teknik Informatika, Universitas 17 Agustus 1945 Surabaya (2025)
-- **Focus:** Full Stack Development & UI/UX Design
+- **Focus:** Frontend Development & UI/UX Design
 
 ---
 
