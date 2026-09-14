@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,nextjs,react,laravel,filament,nodejs,mysql,postgres,wordpress,bootstrap,tailwind,vscode,git,postman&perline=9" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,react,nextjs,vite,tailwind,bootstrap,reactquery,laravel,filament,nodejs,wordpress,mysql,postgres,git,github,vscode,postman,bruno,figma&perline=8" alt="Tech Stack" />
   </a>
 </div>
 
