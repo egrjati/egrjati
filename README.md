@@ -26,11 +26,13 @@
   <br />
   <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,bootstrap" alt="Frameworks" />
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,vite,npm,mysql,postgres,wordpress,git,github,vscode,postman,figma&perline=6" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,vite,mysql,postgres,wordpress" alt="Runtime & Database" />
   <br />
-  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=filament&logoColor=black" alt="Filament" />
-  <img src="https://img.shields.io/badge/TanStack_Table-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack Table" />
-  <img src="https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=black" alt="Bruno" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logo=filament&logoColor=black" alt="Filament" />
+  <img src="https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=tanstack&logoColor=white" alt="TanStack Table" />
+  <img src="https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=black" alt="Bruno" />
 </div>
 
 ---
