@@ -22,12 +22,12 @@
 ### Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,tailwind,bootstrap,react,nextjs,vite,nodejs,laravel,mysql,postgres,wordpress,git,github,vscode,postman,figma,npm&perline=7" alt="Tech Stack" />
-  </a>
-</div>
-
-<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css" alt="Languages" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,bootstrap" alt="Frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,vite,npm,mysql,postgres,wordpress,git,github,vscode,postman,figma&perline=6" alt="Tools" />
+  <br />
   <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=filament&logoColor=black" alt="Filament" />
   <img src="https://img.shields.io/badge/TanStack_Table-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack Table" />
   <img src="https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=black" alt="Bruno" />
