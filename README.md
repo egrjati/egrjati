@@ -21,7 +21,7 @@
 
 ### Tech Stack
 
-<div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,php,html,css" alt="Languages" />
   <br />
   <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,bootstrap" alt="Frameworks" />
