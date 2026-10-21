@@ -26,7 +26,7 @@
   <br />
   <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,bootstrap" alt="Frameworks" />
   <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,vite,mysql,postgres,wordpress" alt="Runtime & Database" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,vite,mysql,postgres,wordpress" alt="Runtime & Database" />
   <br />
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools" />
   <br /><br />
