@@ -14,21 +14,23 @@
   </tr>
   <tr>
     <td colspan="2">
-      <h3>Hey there! I'm Enggar 👋</h3>
+      <h3>I'm Enggar</h3>
     </td>
   </tr>
-  <tr>
-    <td width="68%" valign="middle">
-      <b>Frontend Developer &amp; Informatics Graduate</b> (S.Kom, 2025)
-      <br/><br/>
-      I'm based in Surabaya and passionate about crafting clean, responsive web interfaces with a strong eye for UI/UX and the small details that make a page feel right.
-      <br/><br/>
-      I graduated from <b>Universitas 17 Agustus 1945 Surabaya</b>, and my everyday toolkit revolves around <b>React</b>, <b>TypeScript</b>, <b>Next.js</b>, and <b>Tailwind CSS</b>. Outside of code, I share my creative work at <a href="https://enggar.pics"><b>enggar.pics</b></a>.
-    </td>
-    <td width="32%" align="center" valign="middle">
-      <img src="assets/orb.png" width="200" alt="orb" />
-    </td>
-  </tr>
+<tr>
+  <td width="68%" valign="middle">
+    <b>Frontend Developer &amp; Informatics Graduate</b> (S.Kom, 2025)
+    <br/><br/>
+    Frontend dev based in Surabaya, Indonesia. I turn ideas into clean, responsive interfaces with <b>React</b>, <b>TypeScript</b>, <b>Next.js</b>, and <b>Tailwind CSS</b>.
+    <br/><br/>
+    Informatics grad (S.Kom, 2025) from <b>Universitas 17 Agustus 1945 Surabaya</b>.
+    <br/><br/>
+    Building for the web, obsessing over the details, and occasionally creating stuff at <a href="https://enggar.pics"><b>enggar.pics</b></a>.
+  </td>
+  <td width="32%" align="center" valign="middle">
+    <img src="assets/orb.png" width="200" alt="orb" />
+  </td>
+</tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=19&duration=3500&pause=3000&color=8B949E&center=true&vCenter=true&width=640&height=44&lines=Every+developer+has+a+Personal+Legend.;Mine+is+written+in+code%2C+one+step+at+a+time.;The+treasure+is+found+along+the+way.;%E2%80%94+inspired+by+The+Alchemist&italic=true" alt="Every developer has a Personal Legend." /></a>
