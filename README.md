@@ -76,13 +76,6 @@ const alchemist = {
 <h3 align="center">Send Me an Omen</h3>
 <p align="center"><i>Every great journey starts with a conversation.</i></p>
 
-<p align="center">
-  <a href="mailto:wahyuenggarjati@gmail.com"><img src="https://img.shields.io/badge/Email-082f49?style=for-the-badge&logo=gmail&logoColor=7dd3fc" alt="Email" /></a>
-  <a href="https://linkedin.com/in/wahyuenggarjati"><img src="https://img.shields.io/badge/LinkedIn-082f49?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/wahyuenggarjati"><img src="https://img.shields.io/badge/Instagram-082f49?style=for-the-badge&logo=instagram&logoColor=7dd3fc" alt="Instagram" /></a>
-  <a href="https://wa.me/6281234567890"><img src="https://img.shields.io/badge/WhatsApp-082f49?style=for-the-badge&logo=whatsapp&logoColor=7dd3fc" alt="WhatsApp" /></a>
-</p>
-
 <br/>
 
 <!-- ════════════════════════ EPILOGUE ════════════════════════ -->
