@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <h3>I'm Enggar</h3>
+      <h3>I'm Wahyu Enggar Jati Informatics Engineering (S.Kom 2025)</h3>
     </td>
   </tr>
 <tr>
