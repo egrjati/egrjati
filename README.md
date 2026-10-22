@@ -1,7 +1,13 @@
 <!-- ════════════════════════ PROLOGUE ════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:7dd3fc,100:0ea5e9&height=220&section=header&text=Wahyu%20Enggar%20Jati&fontSize=46&fontColor=0c4a6e&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20Informatics%20Graduate&descSize=16&descAlignY=57&animation=fadeIn" width="100%" alt="Wahyu Enggar Jati" />
+<br/>
+
+<h1>Wahyu Enggar Jati</h1>
+
+<sub>F R O N T E N D &nbsp; D E V E L O P E R &nbsp; · &nbsp; I N F O R M A T I C S &nbsp; G R A D U A T E</sub>
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=22&duration=4000&pause=2000&color=38BDF8&center=true&vCenter=true&width=760&lines=Every+developer+has+a+Personal+Legend.;Mine+is+written+in+components+and+pixels.;The+treasure+is+found+along+the+way.;%E2%80%94+inspired+by+The+Alchemist&italic=true" alt="Every developer has a Personal Legend." />
@@ -88,5 +94,3 @@ const alchemist = {
 <!-- ════════════════════════ EPILOGUE ════════════════════════ -->
 <p align="center">✦</p>
 <p align="center"><i><sub>The desert is long, but the journey is worth every step.</sub></i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:7dd3fc,100:e0f2fe&height=120&section=footer" width="100%" alt="footer" />
