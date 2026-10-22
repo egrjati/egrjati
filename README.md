@@ -6,10 +6,8 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://enggar.pics"><img src="https://img.shields.io/badge/enggar.pics-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-      <a href="https://linkedin.com/in/wahyuenggarjati"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-      <a href="mailto:wahyuenggarjati@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+      <a href="mailto:jatibelive@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
       <a href="https://instagram.com/egrjati"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-      <a href="https://wa.me/6281234567890"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
     </td>
   </tr>
   <tr>
