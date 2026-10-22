@@ -1,4 +1,3 @@
-<!-- ════════════════════════ PROLOGUE ════════════════════════ -->
 <div align="center">
 
 <br/>
@@ -9,40 +8,42 @@
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=22&duration=4000&pause=2000&color=38BDF8&center=true&vCenter=true&width=760&lines=Every+developer+has+a+Personal+Legend.;Mine+is+written+in+components+and+pixels.;The+treasure+is+found+along+the+way.;%E2%80%94+inspired+by+The+Alchemist&italic=true" alt="Every developer has a Personal Legend." />
-</a>
+<i>“Every developer has a Personal Legend — mine is written in code.”</i><br/>
+<sub>— inspired by <b>The Alchemist</b></sub>
 
-<a href="https://enggar.pics"><img src="https://img.shields.io/badge/Portfolio-enggar.pics-0ea5e9?style=flat-square&labelColor=082f49" alt="Portfolio" /></a>
-<img src="https://img.shields.io/badge/Based_in-Surabaya-0ea5e9?style=flat-square&labelColor=082f49" alt="Surabaya" />
-<img src="https://komarev.com/ghpvc/?username=wahyuenggarjati&style=flat-square&color=0ea5e9&label=Profile%20Views" alt="Profile views" />
+<br/><br/>
+
+<a href="https://enggar.pics"><img src="https://img.shields.io/badge/Portfolio-enggar.pics-f5f5f5?style=flat-square&labelColor=111111" alt="Portfolio" /></a>
+<img src="https://img.shields.io/badge/Based_in-Surabaya-f5f5f5?style=flat-square&labelColor=111111" alt="Surabaya" />
 
 </div>
 
 <br/><br/>
 
-<!-- ════════════════════════ CHAPTER I ════════════════════════ -->
+<!-- ═══════════════ ABOUT ═══════════════ -->
 <p align="center"><sub>C H A P T E R &nbsp; I</sub></p>
-<h3 align="center">The Journey</h3>
-<p align="center"><i>Like turning lead into gold — I turn ideas into interfaces.</i></p>
+<h3 align="center">About Me</h3>
 
-```ts
-const alchemist = {
-  name:           "Wahyu Enggar Jati",
-  role:           "Frontend Developer",
-  education:      "S.Kom — Teknik Informatika, Untag Surabaya (2025)",
-  craft:          ["Frontend Development", "UI/UX Design"],
-  personalLegend: "Building interfaces that feel calm, clear, and human",
-  motto:          "Keep walking. Keep learning. Keep reading the omens.",
-};
-```
+<p align="center">
+  Frontend developer from Surabaya who enjoys turning ideas into interfaces<br/>
+  that feel calm, clear, and human.
+</p>
+
+<div align="center">
+
+| | |
+|:--|:--|
+| **Education** | S.Kom — Teknik Informatika, Universitas 17 Agustus 1945 Surabaya (2025) |
+| **Focus** | Frontend Development & UI/UX Design |
+| **Location** | Surabaya, Indonesia |
+
+</div>
 
 <br/>
 
-<!-- ════════════════════════ CHAPTER II ════════════════════════ -->
+<!-- ═══════════════ TECH STACK ═══════════════ -->
 <p align="center"><sub>C H A P T E R &nbsp; I I</sub></p>
-<h3 align="center">The Tools of the Craft</h3>
-<p align="center"><i>Every alchemist needs the right instruments.</i></p>
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
 
@@ -66,9 +67,9 @@ const alchemist = {
   <tr>
     <td align="center"><sub><b>ALSO USING</b></sub></td>
     <td>
-      <img src="https://img.shields.io/badge/Filament-082f49?style=for-the-badge&logo=filament&logoColor=FDAE4B" alt="Filament" />
-      <img src="https://img.shields.io/badge/TanStack-082f49?style=for-the-badge&logo=tanstack&logoColor=FF4154" alt="TanStack" />
-      <img src="https://img.shields.io/badge/Bruno-082f49?style=for-the-badge&logo=bruno&logoColor=F4AA41" alt="Bruno" />
+      <img src="https://img.shields.io/badge/Filament-f5f5f5?style=for-the-badge&logo=filament&logoColor=111111" alt="Filament" />
+      <img src="https://img.shields.io/badge/TanStack-f5f5f5?style=for-the-badge&logo=tanstack&logoColor=111111" alt="TanStack" />
+      <img src="https://img.shields.io/badge/Bruno-f5f5f5?style=for-the-badge&logo=bruno&logoColor=111111" alt="Bruno" />
     </td>
   </tr>
 </table>
@@ -77,20 +78,16 @@ const alchemist = {
 
 <br/>
 
-<!-- ════════════════════════ CHAPTER III ════════════════════════ -->
+<!-- ═══════════════ CONTACT ═══════════════ -->
 <p align="center"><sub>C H A P T E R &nbsp; I I I</sub></p>
-<h3 align="center">Send Me an Omen</h3>
-<p align="center"><i>Every great journey starts with a conversation.</i></p>
+<h3 align="center">Contact</h3>
 
 <p align="center">
-  <a href="mailto:wahyuenggarjati@gmail.com"><img src="https://img.shields.io/badge/Email-082f49?style=for-the-badge&logo=gmail&logoColor=7dd3fc" alt="Email" /></a>
-  <a href="https://linkedin.com/in/wahyuenggarjati"><img src="https://img.shields.io/badge/LinkedIn-082f49?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/wahyuenggarjati"><img src="https://img.shields.io/badge/Instagram-082f49?style=for-the-badge&logo=instagram&logoColor=7dd3fc" alt="Instagram" /></a>
-  <a href="https://wa.me/6281234567890"><img src="https://img.shields.io/badge/WhatsApp-082f49?style=for-the-badge&logo=whatsapp&logoColor=7dd3fc" alt="WhatsApp" /></a>
+  <a href="mailto:jatibelive@gmail.com"><img src="https://img.shields.io/badge/Email-f5f5f5?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email" /></a>
+  <a href="https://instagram.com/egrjati"><img src="https://img.shields.io/badge/Instagram-f5f5f5?style=for-the-badge&logo=instagram&logoColor=111111" alt="Instagram" /></a>
 </p>
 
 <br/>
 
-<!-- ════════════════════════ EPILOGUE ════════════════════════ -->
 <p align="center">✦</p>
-<p align="center"><i><sub>The desert is long, but the journey is worth every step.</sub></i></p>
+<p align="center"><i><sub>Keep walking. Keep learning.</sub></i></p>
