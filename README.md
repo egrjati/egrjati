@@ -1,42 +1,52 @@
-<div align="center">
-
-<h1>Wahyu Enggar Jati</h1>
-
-<sub>F R O N T E N D &nbsp; D E V E L O P E R &nbsp; · &nbsp; I N F O R M A T I C S &nbsp; G R A D U A T E</sub>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=20&duration=5000&pause=1500&color=8B949E&center=true&vCenter=true&width=700&height=50&lines=%E2%80%9CEvery+developer+has+a+Personal+Legend.;Mine+is+written+in+code%2C+one+step+at+a+time.;The+treasure+is+found+along+the+way.%E2%80%9D;%E2%80%94+inspired+by+The+Alchemist&italic=true" alt="Every developer has a Personal Legend." /></a>
-
-<p>
-  Hi, I'm Enggar — a frontend developer based in Surabaya.<br/>
-  I build clean, responsive interfaces with React, TypeScript, and Next.js,<br/>
-  with a strong eye for UI/UX and the small details.
+<p align="center">
+  <img src="assets/banner.jpg" width="100%" alt="banner" />
 </p>
 
-<a href="https://enggar.pics"><img src="https://img.shields.io/badge/Portfolio-enggar.pics-f5f5f5?style=flat-square&labelColor=111111" alt="Portfolio" /></a>
-<img src="https://img.shields.io/badge/Untag_Surabaya-S.Kom_2025-f5f5f5?style=flat-square&labelColor=111111" alt="Education" />
-<img src="https://img.shields.io/badge/Based_in-Surabaya-f5f5f5?style=flat-square&labelColor=111111" alt="Location" />
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://enggar.pics"><img src="https://img.shields.io/badge/enggar.pics-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+      <a href="https://linkedin.com/in/wahyuenggarjati"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="mailto:wahyuenggarjati@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+      <a href="https://instagram.com/egrjati"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+      <a href="https://wa.me/6281234567890"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>Hey there! I'm Enggar 👋</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="68%" valign="middle">
+      <b>Frontend Developer &amp; Informatics Graduate</b> (S.Kom, 2025)
+      <br/><br/>
+      I'm based in Surabaya and passionate about crafting clean, responsive web interfaces with a strong eye for UI/UX and the small details that make a page feel right.
+      <br/><br/>
+      I graduated from <b>Universitas 17 Agustus 1945 Surabaya</b>, and my everyday toolkit revolves around <b>React</b>, <b>TypeScript</b>, <b>Next.js</b>, and <b>Tailwind CSS</b>. Outside of code, I share my creative work at <a href="https://enggar.pics"><b>enggar.pics</b></a>.
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="assets/orb.png" width="200" alt="orb" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=19&duration=3500&pause=3000&color=8B949E&center=true&vCenter=true&width=640&height=44&lines=Every+developer+has+a+Personal+Legend.;Mine+is+written+in+code%2C+one+step+at+a+time.;The+treasure+is+found+along+the+way.;%E2%80%94+inspired+by+The+Alchemist&italic=true" alt="Every developer has a Personal Legend." /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>Tech Stack</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,react,nextjs,laravel,tailwind,bootstrap,nodejs,express,prisma,vite,mysql,postgres,wordpress,git,github,vscode,postman,figma&perline=11&theme=dark" alt="Tech Stack" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Filament-000000?style=flat-square&logo=filament&logoColor=white" alt="Filament" />
+      <img src="https://img.shields.io/badge/TanStack-000000?style=flat-square&logo=tanstack&logoColor=white" alt="TanStack" />
+      <img src="https://img.shields.io/badge/Bruno-000000?style=flat-square&logo=bruno&logoColor=white" alt="Bruno" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
-<br/>
-
-<h3>Tech Stack</h3>
-
-<img src="https://skillicons.dev/icons?i=js,ts,php,html,css,react,nextjs,laravel,tailwind,bootstrap,nodejs,express,prisma,vite,mysql,postgres,wordpress,git,github,vscode,postman,figma&perline=11&theme=dark" alt="Tech Stack" />
-
-<img src="https://img.shields.io/badge/Filament-f5f5f5?style=flat-square&logo=filament&logoColor=111111" alt="Filament" />
-<img src="https://img.shields.io/badge/TanStack-f5f5f5?style=flat-square&logo=tanstack&logoColor=111111" alt="TanStack" />
-<img src="https://img.shields.io/badge/Bruno-f5f5f5?style=flat-square&logo=bruno&logoColor=111111" alt="Bruno" />
-
-<br/>
-
-<h3>Let's Connect</h3>
-
-<a href="mailto:wahyuenggarjati@gmail.com"><img src="https://img.shields.io/badge/Email-f5f5f5?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email" /></a>
-<a href="https://linkedin.com/in/wahyuenggarjati"><img src="https://img.shields.io/badge/LinkedIn-f5f5f5?style=for-the-badge&logo=linkedin&logoColor=111111" alt="LinkedIn" /></a>
-<a href="https://instagram.com/wahyuenggarjati"><img src="https://img.shields.io/badge/Instagram-f5f5f5?style=for-the-badge&logo=instagram&logoColor=111111" alt="Instagram" /></a>
-<a href="https://wa.me/6281234567890"><img src="https://img.shields.io/badge/WhatsApp-f5f5f5?style=for-the-badge&logo=whatsapp&logoColor=111111" alt="WhatsApp" /></a>
-
-<br/><br/>
-
-<sub><i>Keep walking. Keep learning.</i></sub>
-
-</div>
+<p align="center">
+  <img src="assets/strip.jpg" width="100%" alt="" />
+</p>
