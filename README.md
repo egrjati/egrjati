@@ -26,7 +26,7 @@
     Building for the web, obsessing over the details, and occasionally creating stuff at <a href="https://enggar.pics"><b>enggar.pics</b></a>.
   </td>
   <td width="32%" align="center" valign="middle">
-    <img src="assets/kanan.jfif" width="200" alt="orb" />
+    <img src="assets/profr.png" width="200" alt="orb" />
   </td>
 </tr>
   <tr>
