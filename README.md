@@ -37,7 +37,7 @@
   <tr>
     <td colspan="2" align="center">
       <h3>Tech Stack</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,react,nextjs,laravel,tailwind,bootstrap,nodejs,express,prisma,vite,mysql,postgres,wordpress,git,github,vscode,postman,figma&perline=11&theme=dark" alt="Tech Stack" />
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,prisma,vite,mysql,postgres,wordpress,git,github,vscode,postman,figma&perline=10&theme=dark" alt="Tech Stack" />
       <br/><br/>
       <img src="https://img.shields.io/badge/Filament-000000?style=flat-square&logo=filament&logoColor=white" alt="Filament" />
       <img src="https://img.shields.io/badge/TanStack-000000?style=flat-square&logo=tanstack&logoColor=white" alt="TanStack" />
