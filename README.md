@@ -12,12 +12,12 @@
   </tr>
   <tr>
     <td colspan="2">
-      <h3>Wahyu Enggar Jati</h3>
+      <h3>Wahyu Enggar Jati | Informatics Engineering (S.Kom 2025)</h3>
     </td>
   </tr>
 <tr>
   <td width="68%" valign="middle">
-    <b>Frontend Developer & UI/UX Designer | Informatics Engineering (S.Kom 2025)
+    <b>Frontend Developer & UI/UX Designer
     <br/><br/>
     Frontend dev based in Surabaya, Indonesia. I turn ideas into clean, responsive interfaces with <b>React</b>, <b>TypeScript</b>, <b>Next.js</b>, and <b>Tailwind CSS</b>.
     <br/><br/>
