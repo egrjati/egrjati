@@ -41,8 +41,8 @@
       <br/><br/>
       <img src="https://img.shields.io/badge/Filament-000000?style=flat-square&logo=filament&logoColor=white" alt="Filament" />
       <img src="https://img.shields.io/badge/TanStack-000000?style=flat-square&logo=tanstack&logoColor=white" alt="TanStack" />
-      <img src="https://img.shields.io/badge/Bruno-000000?style=flat-square&logo=bruno&logoColor=white" alt="Bruno" />
       <img src="https://img.shields.io/badge/Zod-000000?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+      <img src="https://img.shields.io/badge/Bruno-000000?style=flat-square&logo=bruno&logoColor=white" alt="Bruno" />
       <br/><br/>
     </td>
   </tr>
