@@ -42,6 +42,7 @@
       <img src="https://img.shields.io/badge/Filament-000000?style=flat-square&logo=filament&logoColor=white" alt="Filament" />
       <img src="https://img.shields.io/badge/TanStack-000000?style=flat-square&logo=tanstack&logoColor=white" alt="TanStack" />
       <img src="https://img.shields.io/badge/Bruno-000000?style=flat-square&logo=bruno&logoColor=white" alt="Bruno" />
+      <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
       <br/><br/>
     </td>
   </tr>
