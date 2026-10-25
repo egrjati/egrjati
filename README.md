@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <h3>Wahyu Enggar Jati S.Kom</h3>
+      <h3>Wahyu Enggar Jati, S.Kom</h3>
     </td>
   </tr>
 <tr>
