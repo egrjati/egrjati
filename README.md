@@ -17,7 +17,7 @@
   </tr>
 <tr>
   <td width="68%" valign="middle">
-    <b>Frontend Developer | UI/UX Designer
+    <b>Frontend Developer n UI/UX Designer
     <br/><br/>
     Frontend dev based in Surabaya, Indonesia. I turn ideas into clean, responsive interfaces with <b>React</b>, <b>TypeScript</b>, <b>Next.js</b>, and <b>Tailwind CSS</b>.
     <br/><br/>
