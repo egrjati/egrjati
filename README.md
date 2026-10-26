@@ -31,7 +31,7 @@
 </tr>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=19&duration=3500&pause=3000&color=8B949E&center=true&vCenter=true&width=640&height=44&lines=Every+developer+has+a+Personal+Legend.;Mine+is+written+in+code%2C+one+step+at+a+time.;The+treasure+is+found+along+the+way.;%E2%80%94+inspired+by+The+Alchemist&italic=true" alt="Every developer has a Personal Legend." /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=18&duration=2800&pause=2200&color=8B949E&center=true&vCenter=true&width=640&height=44&lines=probably+listening+to+shoegaze+right+now.;or+dream+pop.+or+post-rock.;or+britpop.+or+alt+rock.+you+get+the+idea." alt="probably listening to shoegaze right now." /></a>
     </td>
   </tr>
   <tr>
