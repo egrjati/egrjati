@@ -29,11 +29,16 @@
     <img src="assets/profr.png" width="200" alt="orb" />
   </td>
 </tr>
-  <tr>
-    <td colspan="2" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=18&duration=2800&pause=2200&color=8B949E&center=true&vCenter=true&width=640&height=44&lines=probably+listening+to+shoegaze+right+now.;or+dream+pop.+or+post-rock.;or+britpop.+or+alt+rock.+you+get+the+idea." alt="probably listening to shoegaze right now." /></a>
-    </td>
-  </tr>
+<tr>
+  <td colspan="2" align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=18&duration=4500&pause=3000&color=8B949E&center=true&vCenter=true&width=640&height=44&lines=Atas+nama+mimpi+yang+tetap+dalam+kendali.;Percayalah+terang+menyapa+tuk+segera.;Semua+upaya+mulai+temukan+dunia.;Tiba+saatnya+kembali+dan+gelap+akan+menepi.;Bawa+senang+yang+kau+cari+risau+segera+pergi." alt="Atas nama mimpi yang tetap dalam kendali" /></a>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center">
+    <sub><i>Esok by Alkateri</i></sub>
+  </td>
+</tr>
   <tr>
     <td colspan="2" align="center">
       <h3>Tech Stack</h3>
